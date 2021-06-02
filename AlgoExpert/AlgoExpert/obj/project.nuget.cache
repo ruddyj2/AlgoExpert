@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "eiDhHUPU2DCwpqVZpchrrs8zm6MlnvqjqzALZwk39icUGNZUJItkYKpKEBr9huN07xFWsq/IdmfTRIPlq/3kcw==",
+  "dgSpecHash": "eaDne0RRVLgot7Q5u1Glzv9qYddpS3h3oUe1K44nX+SeC0BnXhbJeChQLhryVLdI84Rzx/2A2Hk0eA2YL8WduA==",
   "success": true,
   "projectFilePath": "F:\\Projects\\AlgoExpert\\AlgoExpert\\AlgoExpert\\AlgoExpert.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\johnp\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\johnp\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\johnp\\.nuget\\packages\\nunit\\3.13.2\\nunit.3.13.2.nupkg.sha512"
+  ],
   "logs": []
 }
